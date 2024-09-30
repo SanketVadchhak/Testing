@@ -31,6 +31,12 @@ header {
     padding: 20px;
 }
 
+i {
+    margin: 5px;
+    padding: 3px;
+    color: black;
+}
+
 .container {
     width: 90%;
     margin: auto;
